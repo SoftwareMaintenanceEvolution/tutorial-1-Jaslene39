@@ -5,7 +5,7 @@ Hi! I'm Chia Pei Xin (Jaslene), a student in the Software Maintenance and Evolut
 - **Fun fact**: I love baking
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
-![My Image](upload-profile-photo.jpeg)  https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Jaslene39/blob/profile-upload/upload-profile-photo.jpeg 
+![My Image](upload-profile-photo.jpeg)  
 
 ## GitHub Profile 
 You can view my personalized GitHub profile 
